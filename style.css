@@ -1,0 +1,23 @@
+h1{
+    color:red;
+    font-style:italic;
+    text-decoration:underline;
+    }
+   
+    body{
+    background:lightgrey;
+    } 
+    p{
+        text-align:center;
+        color:blue;
+
+        }
+    .red-paragraph {
+        text-align: left;
+        color: red;
+        background-color: black;
+        }
+    #my-purple-paragraph {
+        text-align: right;
+        color: purple;
+        }
